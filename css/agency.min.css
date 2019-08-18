@@ -167,10 +167,6 @@ header.masthead .intro-text .intro-heading2 {
     font-family:Montserrat,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol','Noto Color Emoji';
     text-align: left;
 }
-
-#page-top > header > div > div > div.intro-heading2 > label {
-    font-size:50px;
-}
  
 @media (min-width:768px) {
     header.masthead .intro-text {
